@@ -44,7 +44,7 @@ const AboutSection = () => {
   return (
     <section className = "text-white">
         <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 text-[#ADB7BE]" id="about">
-          <img className=" rounded-3xl w-[350px] h-[300px] relative overflow-hidden group hover:scale-115 transition-all duration-300 ml-25" src="/image/upscalemedia-transformed (1).jpeg" width={500} height={500} /> 
+          <img className=" rounded-3xl w-[350px] h-[300px] relative overflow-hidden group hover:scale-115 transition-all duration-300 ml-25" src="/image/profly.jpeg" width={500} height={500} /> 
           <div >
             <h2 className=' text-3xl font-bold text-white mb-4' >
                 About ME

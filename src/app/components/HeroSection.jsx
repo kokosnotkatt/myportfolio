@@ -50,7 +50,7 @@ const HeroSection = () => {
                 Hire Me
               </Link>
               <a
-                href="/image/White simple Sales Representative Cv Resume.pdf"
+                href="/image/CvResume.pdf"
                 download 
                 className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500
                   hover:bg-slate-800 text-white mt-3 hover:scale-125 transition-all duration-500"
@@ -69,7 +69,7 @@ const HeroSection = () => {
           >
             <div className="rounded-full bg-[#181818] w-[320px] h-[320px] relative overflow-hidden group hover:scale-115 transition-all duration-300 ">
               <Image
-                src="/image/upscalemedia-transformed.jpeg"
+                src="/image/proresum.jpeg"
                 alt="hero image"
                 className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 rounded-full object-cover "
                 width={500}
