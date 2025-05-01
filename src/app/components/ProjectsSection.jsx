@@ -10,8 +10,8 @@ const ProjectDate = [
      description:"Project 1",
      image:"/image/Hello.png",
      tag:["all" ,"web"],
-     gitUrl: "https://www.youtube.com/watch?v=Is1PyvA0MAU&list=RDMMIs1PyvA0MAU&start_radio=1",
-     previewUrl: "https://www.youtube.com/watch?v=Is1PyvA0MAU&list=RDMMIs1PyvA0MAU&start_radio=1",
+     gitUrl: "https://github.com/kokosnotkatt/myportfolio.git",
+     previewUrl: "https://myportfolio-4fik.onrender.com",
   },
   {
      id:2,
